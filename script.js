@@ -53,8 +53,8 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 /==================== typed js ====================/
 const typed = new Typed('.multiple-text', {
     strings: ['Student Smart', 'Idol', 'Author'],
-    typeSpeed: 100,
-    backSpeed: 100,
+    typeSpeed: 500,
+    backSpeed: 500,
     backDelay: 1000,
     loop: true
 });
